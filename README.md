@@ -1,6 +1,6 @@
 # ✊✋✌️ Rock Paper Scissors Game
 
-🚀 **Live Demo:** https://your-live-link-here.com/
+🚀 **Live Demo:** https://stones-papers-scissors-game.netlify.app/
 
 A fun and interactive Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**, where you play against the computer. This project demonstrates core front-end concepts like DOM manipulation, event handling, and basic game logic.
 
@@ -28,7 +28,7 @@ A fun and interactive Rock Paper Scissors game built using **HTML**, **CSS**, an
 ---
 
 ## 📌 How to Play
-1. Open the game in your browser
+1. Open the game in a browser
 2. Choose Rock, Paper, or Scissors
 3. The computer randomly selects its move
 4. The winner is decided instantly:
@@ -36,9 +36,6 @@ A fun and interactive Rock Paper Scissors game built using **HTML**, **CSS**, an
    - Paper beats Rock
    - Scissors beats Paper
 5. Play again and try to beat the computer!
-
----
-
 ## 💡 Future Improvements
 - Add animations and sound effects
 - Add difficulty levels for AI
