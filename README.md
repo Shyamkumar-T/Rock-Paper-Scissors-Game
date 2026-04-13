@@ -7,7 +7,7 @@ A fun and interactive Rock Paper Scissors game built using **HTML**, **CSS**, an
 ---
 
 ## 🔗 Live Demo
-👉 [Play the Game](https://your-live-link-here.com/)
+👉 [Play the Game](https://stones-papers-scissors-game.netlify.app/)
 
 ---
 
